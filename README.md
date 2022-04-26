@@ -42,9 +42,10 @@ A simple SPA Portfolio template for developer/designers built with React. Use it
 
 ## Links
 - GitHub Repo:
+https://github.com/ragil1114/reactPortfolio.git
 
 - Live URL:
-
+https://ragil1114.github.io/reactPortfolio/
 
 ## Images
 ![demo](https://github.com/ragil1114/Rahil-G/blob/main/public/images/demo.png)

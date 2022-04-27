@@ -48,5 +48,5 @@ https://github.com/ragil1114/reactPortfolio.git
 https://ragil1114.github.io/reactPortfolio/
 
 ## Images
-![demo](https://github.com/ragil1114/reactPortfolio/blob/main/public/images/demo.png)
-![demo2](https://github.com/ragil1114/reactPortfolio/blob/main/public/images/demo2.png)
+![demo](https://github.com/ragil1114/reactPortfolio/blob/public/images/demo.png)
+![demo2](https://github.com/ragil1114/reactPortfolio/blob/public/images/demo2.png)

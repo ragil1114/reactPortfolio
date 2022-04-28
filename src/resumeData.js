@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"I am in my final stretch, currently attending the Tech Program at SMU. Pursuing a Full-Stack Web Development Certificate. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Dallas, TX",
-    "website":"https://ragil1114.github.io/portfolio/",
+    "website":"https://ragil1114.github.io/reactPortfolio/",
     "education":[
       {
         "UniversityName":"Southern Methodist University",

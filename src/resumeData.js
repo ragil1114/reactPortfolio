@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am in my final stretch, currently attending the Tech Program at SMU. Pursuing a Full-Stack Web Development Certificate. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am a graduate of the Tech Program at SMU. I have attained a Full-Stack Web Development Certificate. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Dallas, TX",
     "website":"https://ragil1114.github.io/reactPortfolio/",
     "education":[

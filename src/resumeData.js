@@ -163,7 +163,8 @@ let resumeData = {
       {
         "name":"Tourist App",
         "description":"Mobile App",
-        "imgurl":"images/portfolio/origami.jpg"
+        "imgurl":"images/portfolio/origami.jpg",
+        "url":"https://viewsnvibes.herokuapp.com/"
       }
     ],
     "testimonials":[

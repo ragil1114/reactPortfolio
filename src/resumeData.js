@@ -161,8 +161,8 @@ let resumeData = {
         "url":"https://ragil1114.github.io/weather-dashboard/"
       },
       {
-        "name":"Portfolio Generator",
-        "description":"CLI App",
+        "name":"Tourist App",
+        "description":"Mobile App",
         "imgurl":"images/portfolio/origami.jpg"
       }
     ],

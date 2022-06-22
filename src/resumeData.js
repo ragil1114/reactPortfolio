@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full-Stack Developer",
     "linkedinId":"https://www.linkedin.com/in/rahil-gilani-2a463684/",
     "zoomid": "473 050 0442",
-    "roleDescription": " I like exploring various cutting-edge front & back-end technologies, read books, watch/play sports, working out or simply play video games in my free time. If I'm not doing any of these things, you'll find me hanging out with my family & friends.",
+    "roleDescription": " I like exploring various cutting-edge front & back-end technologies, read books, watch/play sports & working out or simply play video games, in my free time. If I'm not doing any of these things, you'll find me hanging out with my family & friends.",
     "socialLinks":[
         {
           "name":"linkedin",
